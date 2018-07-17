@@ -1,32 +1,41 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+title: The makings of a Fall-flavored feast
+date: 2018-07-14T15:04:10.000Z
+description: Cranberries, Green Beans and Sparklers! Oh My.
 tags:
-  - flavor
-  - tasting
+  - food
+  - canned goods
 ---
 
-![flavor wheel](/img/flavor_wheel.jpg)
+![found food](/img/found-food.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+A Shocking Green Bean Casserole from somewhere else. That's what we are gonna make today.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+## A Recipe for Success
 
-## What the updates mean to you
+Today's Find has me making a wonderful fiesta of flavors. It's gonna be a party in your mouth after you finish tasting this crazy concoction.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+#### Ingredients
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+* Ocean Spray Cranberry Sauce
+* Cut Green Beans
+* 4 Cups of Old Fashioned Caramel Dip
+* 1 Jar of Green Olives
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+#### Steps
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+1. Remove Green Beans from can and mix thoroughly with cranberry sauce until bowl is full of brownish mush.
+2. Add brownish mush to a plate and microwave on high for 4 minutes until mush has gotten a little darker. (Note: Power capacity varies on microwaves so please adjust your time as necessary)
+3. Remove from microwave.
+4. Take the 4 cups of Old Fashioned Caramel Dip and open the cups. Throw away the plastic dishes with the Caramel. We won't be needing those. Just the lids.
+5. Take the foil lids and wad them up into balls and throw them on top of your newly fashioned mud pie.
+6. Place back into microwave. Resume cooking on high and enjoy the sparks (NOTE: We are not responsible for damage to your microwave).
+7. Remove from microwave when you are getting bored of the sparks.
+8. Season with Green Olives (to taste)
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Enjoy!
+
+Also, if you are missing any of these ingredients after doing your laundry, please message us on facebook. ;)
+
+- Team "The Mat"
