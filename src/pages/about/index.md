@@ -1,19 +1,14 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: About The Mat
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Reviving a Laundromat
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Owning a laundromat wasn't really on Matthew Dusing's radar when he left his job in 2015. He was seeking to restore and flip houses. He was prodded to check out the closed-down business by his Pastor. When he did, he found a prospective opportunity that filled a need that the village of Mount Morris had for some time. After some blood, sweat and tears for the next several months, The Mat was revived Mid-January 2016. 
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Mount Morris was without a Laundromat for two years. It now has a thriving one, well-cared for, and open 24-7 365 days a year. 
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### The Mat in the News
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+http://www.saukvalley.com/2016/03/01/new-laundromat-opens-in-mount-morris/a93bvsp/
+
